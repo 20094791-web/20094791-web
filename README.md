@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 ¡Hola! Soy **Noe Antonio Villanueva Lemus** 🇸🇻
 
-<!--
-**20094791-web/20094791-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Me apasiona la programación, el hardware y la tecnología. Me gusta aprender cosas nuevas, descubrir cómo funcionan los sistemas y explorar el mundo de la informática. 🚀
 
-Here are some ideas to get you started:
+🖥️ **Mis intereses:**
+- 💻 Programación y desarrollo de software.
+- ⚙️ Hardware, componentes y ensamblaje de PC.
+- 🎮 Gaming y optimización de computadoras.
+- 🌐 Desarrollo web y nuevas tecnologías.
+- 📚 Aprender algo nuevo cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Ubicación:** Ciudad Delgado, El Salvador 🇸🇻
+
+🎯 **Mi objetivo:** Convertirme en un gran desarrollador de software, mejorar mis habilidades en programación, ampliar mis conocimientos de hardware y crear proyectos tecnológicos que sean útiles para las personas.
+
+🔥 Creo que cada error es una oportunidad para aprender y cada proyecto es una nueva experiencia para mejorar.
+
+✨ *Aprendiendo hoy, desarrollando el futuro.* 🚀
